@@ -79,10 +79,4 @@ A: 返金については Apple の返金ポリシーに従います。App Store 
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
 
-## お問い合わせ
 
-ご質問・ご要望・不具合報告は GitHub の Issue よりお寄せください。
-
-https://github.com/support-sh/support-sh.github.io/issues
-
-なお、個別のご返信はお約束できかねますことをご了承ください。
