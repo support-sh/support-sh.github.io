@@ -111,6 +111,10 @@
 
 ## 12. お問い合わせ
 
-本ポリシーに関するご質問は、以下のサポートページよりお問い合わせください。
+本ポリシーに関するご質問は、以下までお問い合わせください。
+
+support.shu@gmail.com
+
+サポートページもあわせてご確認ください。
 
 https://support-sh.github.io/docs/ramensnap/support
