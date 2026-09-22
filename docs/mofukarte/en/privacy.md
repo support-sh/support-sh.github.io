@@ -8,7 +8,7 @@ This Privacy Policy explains how the iOS app "MofuKarte" (the "App") handles you
 
 The App does not require an account. Pet profiles, records, reminders, and photos you enter are stored only on your device and are never sent to the developer's servers or to third parties. The developer cannot see your records.
 
-The App contains no advertising, analytics, or tracking.
+The App contains no tracking or analytics.
 
 ## 2. Information the App Handles
 
