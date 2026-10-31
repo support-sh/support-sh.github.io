@@ -6,7 +6,7 @@ Pokkari cleans up photos to free up space on your iPhone. It groups screenshots,
 
 ## Where Cleaned-Up Photos Go (please read)
 
-1. **Cleaning up moves photos to Recently Deleted** — photos aren't erased; they move to Albums → Recently Deleted in the Photos app
+1. **Cleaning up moves photos to Recently Deleted** — photos aren't erased; they move to Collections → Utilities → Recently Deleted in the Photos app
 2. **You can recover them for 30 days** — select them in Recently Deleted and tap Recover to put them back
 3. **After 30 days, or if you delete them there, they're gone for good** — no one, including the developer, can recover them
 
@@ -35,11 +35,11 @@ The Unlimited Pack is a **one-time purchase**, not a subscription, so you won't 
 
 ### Q: I cleaned up photos, but my free space didn't increase
 
-A: Cleaned-up photos move to Recently Deleted in the Photos app and are removed after 30 days, which frees the space. To free it now, go to Albums → Recently Deleted in the Photos app and delete them. Photos deleted there can never be recovered.
+A: Cleaned-up photos move to Recently Deleted in the Photos app and are removed after 30 days, which frees the space. To free it now, go to Collections → Utilities → Recently Deleted in the Photos app and delete them. Photos deleted there can never be recovered.
 
 ### Q: I cleaned up a photo by mistake
 
-A: Within 30 days, go to Albums → Recently Deleted in the Photos app, select it, and tap Recover.
+A: Within 30 days, go to Collections → Utilities → Recently Deleted in the Photos app, select it, and tap Recover.
 
 ### Q: Can photos disappear on their own?
 
