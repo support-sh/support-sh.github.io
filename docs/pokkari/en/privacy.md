@@ -33,7 +33,7 @@ The App contains no tracking or analytics.
 
 ## 3. Network Communication
 
-- **In-app purchase**: Pokkari Pro is purchased through Apple's StoreKit, and payment is processed by Apple. The developer does not receive or store payment information
+- **In-app purchase**: The Unlimited Pack is purchased through Apple's StoreKit, and payment is processed by Apple. The developer does not receive or store payment information
 - **Displaying photos**: If you use iCloud Photos, iOS may load photos from iCloud when they are shown on screen. This is handled by iOS, and no information is sent to the developer
 - Other than the above, the App does not communicate externally
 

@@ -9,15 +9,15 @@ Pokkari cleans up photos to free up space on your iPhone. It groups screenshots,
 - **Biggest savings first** — screenshots, screen recordings, note photos, bursts, similar photos, and large videos
 - **No picking one by one** — photos to clean up are pre-checked; for bursts and similar photos, the best shot is kept
 - **Undo for 30 days** — cleaned-up photos stay in Recently Deleted in the Photos app for 30 days
-- **Pokkari Pro (one-time purchase)** — unlimited cleanup, similar photos, and Weekend Tidy-Up reminders
+- **Unlimited Pack (one-time purchase)** — unlimited cleanup, similar photos, and Weekend Tidy-Up reminders
 
 ## Requirements
 
 - iPhone with iOS 27.0 or later
 
-## About Pokkari Pro
+## About the Unlimited Pack
 
-Pokkari Pro is a **one-time purchase**, not a subscription, so you won't be charged again. On devices with the same Apple Account, use "Restore Purchases."
+The Unlimited Pack is a **one-time purchase**, not a subscription, so you won't be charged again. On devices with the same Apple Account, use "Restore Purchases."
 
 ## FAQ
 

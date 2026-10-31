@@ -34,13 +34,13 @@ These Terms of Use ("Terms") set out the conditions for using the iOS app "Pokka
 ## 6. Fees and Purchases
 
 1. The App is free to download. Finding suggestions, viewing them and the space you can free, and cleaning up to 100 photos a day are free.
-2. Some features are provided through a one-time in-app purchase, "Pokkari Pro" ("Pro"). Prices for each country and region are shown on the purchase screen.
-3. **Pro is a one-time purchase. It is not an auto-renewable subscription, and you will not be charged again.**
+2. Some features are provided through a one-time in-app purchase, "Unlimited Pack". Prices for each country and region are shown on the purchase screen.
+3. **The Unlimited Pack is a one-time purchase. It is not an auto-renewable subscription, and you will not be charged again.**
 4. Purchases are made through Apple's StoreKit, and payment is processed by Apple.
-5. On devices signed in with the same Apple Account, you can use Pro by tapping "Restore Purchases."
+5. On devices signed in with the same Apple Account, you can use the Unlimited Pack by tapping "Restore Purchases."
 6. Refunds are subject to Apple's refund policy. The developer cannot issue refunds directly.
 
-## 7. Features Unlocked by Pro
+## 7. Features Unlocked by the Unlimited Pack
 
 - No daily cleanup limit (100 photos a day)
 - Cleaning up similar photos
@@ -59,7 +59,7 @@ You must not:
 
 1. The App is provided "as is." The developer does not guarantee that the App is free of errors or bugs, that its analysis is accurate, that it is fit for a particular purpose, or that it will remain available.
 2. **Except in cases of the developer's willful misconduct or gross negligence**, the developer is not liable for any damage (including loss of photos) arising from your use of or inability to use the App.
-3. Even where the developer is liable notwithstanding the preceding paragraph (including where liability cannot be excluded under the Consumer Contract Act or other laws), except in cases of willful misconduct or gross negligence, liability is limited to ordinary and direct damages actually incurred, up to the amount you actually paid for Pro.
+3. Even where the developer is liable notwithstanding the preceding paragraph (including where liability cannot be excluded under the Consumer Contract Act or other laws), except in cases of willful misconduct or gross negligence, liability is limited to ordinary and direct damages actually incurred, up to the amount you actually paid for the Unlimited Pack.
 
 ## 10. Changes, Suspension, and Termination
 
