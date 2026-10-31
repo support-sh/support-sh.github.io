@@ -4,6 +4,18 @@
 
 Pokkari cleans up photos to free up space on your iPhone. It groups screenshots, bursts, large videos and more, and sorts them by how much space they free. Photos to clean up are already checked, so you just tap the ones you want to keep. All analysis happens on your iPhone, and your photos are never sent anywhere.
 
+## Where Cleaned-Up Photos Go (please read)
+
+1. **Cleaning up moves photos to Recently Deleted** — photos aren't erased; they move to Albums → Recently Deleted in the Photos app
+2. **You can recover them for 30 days** — select them in Recently Deleted and tap Recover to put them back
+3. **After 30 days, or if you delete them there, they're gone for good** — no one, including the developer, can recover them
+
+## Important
+
+- Suggestions are chosen automatically and may include photos you want to keep. Always review the list before cleaning up
+- We recommend backing up important photos beforehand
+- Except in cases of willful misconduct or gross negligence, the developer is not liable for loss of photos ([Terms of Use](terms.md), Section 9)
+
 ## Features
 
 - **Biggest savings first** — screenshots, screen recordings, note photos, bursts, similar photos, and large videos
@@ -23,11 +35,15 @@ The Unlimited Pack is a **one-time purchase**, not a subscription, so you won't 
 
 ### Q: I cleaned up photos, but my free space didn't increase
 
-A: Cleaned-up photos move to Recently Deleted in the Photos app and are removed after 30 days, which frees the space. To free it now, go to Albums → Recently Deleted in the Photos app and delete them.
+A: Cleaned-up photos move to Recently Deleted in the Photos app and are removed after 30 days, which frees the space. To free it now, go to Albums → Recently Deleted in the Photos app and delete them. Photos deleted there can never be recovered.
 
 ### Q: I cleaned up a photo by mistake
 
-A: You can recover it from Recently Deleted in the Photos app within 30 days.
+A: Within 30 days, go to Albums → Recently Deleted in the Photos app, select it, and tap Recover.
+
+### Q: Can photos disappear on their own?
+
+A: No. Photos are cleaned up only when you tap Clean Up and choose Delete in the iPhone's confirmation.
 
 ### Q: My favorite photos don't appear as suggestions
 
@@ -48,11 +64,6 @@ A: You can find suggestions and see how much space you can free. You can clean u
 ### Q: I'd like a refund
 
 A: Refunds are subject to Apple's refund policy. Please request one from your App Store purchase history.
-
-## Notes
-
-- Suggestions are chosen automatically and may include photos you want to keep. Please review the list before cleaning up
-- We recommend backing up important photos before cleaning up
 
 ## Contact
 
