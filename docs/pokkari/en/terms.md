@@ -37,7 +37,7 @@ These Terms of Use ("Terms") set out the conditions for using the iOS app "Pokka
 2. Some features are provided through a one-time in-app purchase, "Pokkari Pro" ("Pro"). Prices for each country and region are shown on the purchase screen.
 3. **Pro is a one-time purchase. It is not an auto-renewable subscription, and you will not be charged again.**
 4. Purchases are made through Apple's StoreKit, and payment is processed by Apple.
-5. On devices signed in with the same Apple Account, you can use Pro by tapping "Restore Purchases." Pro supports Family Sharing.
+5. On devices signed in with the same Apple Account, you can use Pro by tapping "Restore Purchases."
 6. Refunds are subject to Apple's refund policy. The developer cannot issue refunds directly.
 
 ## 7. Features Unlocked by Pro

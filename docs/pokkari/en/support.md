@@ -17,7 +17,7 @@ Pokkari cleans up photos to free up space on your iPhone. It groups screenshots,
 
 ## About Pokkari Pro
 
-Pokkari Pro is a **one-time purchase**, not a subscription, so you won't be charged again. On devices with the same Apple Account, use "Restore Purchases." Family Sharing is supported.
+Pokkari Pro is a **one-time purchase**, not a subscription, so you won't be charged again. On devices with the same Apple Account, use "Restore Purchases."
 
 ## FAQ
 
