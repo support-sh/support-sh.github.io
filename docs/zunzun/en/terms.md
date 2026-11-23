@@ -29,7 +29,7 @@ These Terms of Use ("Terms") govern your use of the iOS app "Zunzun" (the "App")
 
 ## Article 5 (Requirements)
 
-1. The App requires iOS 27.0 or later.
+1. The App requires iOS 26.2 or later.
 2. Recording requires location permission ("While Using the App"). Checkpoint notifications require notification permission, taking photos requires camera permission, and saving Cards requires permission to add to Photos.
 
 ## Article 6 (Fees and Purchases)
