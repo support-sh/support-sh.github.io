@@ -23,7 +23,7 @@ These Terms of Use ("Terms") govern your use of the iOS app "MofuKarte" (the "Ap
 
 ## 4. Requirements
 
-1. The App requires iOS 27.0 or later.
+1. The App requires iOS 26.0 or later.
 2. Record keeping works offline. Purchasing and restoring subscriptions requires an internet connection.
 
 ## 5. Fees

@@ -16,7 +16,7 @@ Log weight, vet visits, medications, prevention and vaccines, condition, and not
 
 ## Requirements
 
-- iOS 27.0 or later
+- iOS 26.0 or later
 - iPhone
 
 ## About MofuKarte Pro
