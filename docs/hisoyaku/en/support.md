@@ -2,7 +2,7 @@
 
 ## About the App
 
-HisoYaku translates entirely on your iPhone. All translation happens on the device, and the App does not connect to the internet. Neither your original text nor the translation is ever sent anywhere, and no account is needed.
+HisoYaku translates entirely on your iPhone or iPad. All translation happens on the device, and the App does not connect to the internet. Neither your original text nor the translation is ever sent anywhere, and no account is needed.
 
 The translation engine is "PLaMo 3 Translate," a translation language model published by Preferred Networks, Inc. (Built with PLaMo). HisoYaku is made by an independent developer and is not provided or endorsed by Preferred Networks.
 
@@ -20,7 +20,7 @@ The translation engine is "PLaMo 3 Translate," a translation language model publ
 
 ## Requirements
 
-- iPhone with iOS 27.0 or later
+- iPhone with iOS 27.0 or later, or iPad with iPadOS 27.0 or later
 - Because the translation model is included, the App is a large download and needs free storage on your device
 
 ## Price
@@ -36,7 +36,7 @@ Free. There are no in-app purchases.
 
 ### Q: Does it really not use the internet?
 
-A: Yes. The translation model is built into the App, and all translation happens on your iPhone. It works the same way in Airplane Mode.
+A: Yes. The translation model is built into the App, and all translation happens on your device. It works the same way in Airplane Mode.
 
 ### Q: Why is the App so large?
 
@@ -68,7 +68,7 @@ A: In the History tab, swipe left to delete one translation, or tap Delete All a
 
 ### Q: Can I use it with Shortcuts?
 
-A: Yes. Add the "Translate with HisoYaku" action in the Shortcuts app. You can set the text and the language to translate into, and the action returns the translation. If you don't set the language, it translates into English when your iPhone's language is Japanese, and into Japanese otherwise. Enabled glossary terms are used, too. Open the App once first and go through the introduction to "Agree and Start."
+A: Yes. Add the "Translate with HisoYaku" action in the Shortcuts app. You can set the text and the language to translate into, and the action returns the translation. If you don't set the language, it translates into English when your device's language is Japanese, and into Japanese otherwise. Enabled glossary terms are used, too. Open the App once first and go through the introduction to "Agree and Start."
 
 ### Q: My history and glossary are gone after changing phones
 
@@ -93,7 +93,7 @@ support.shu@gmail.com
 
 It helps if you include:
 
-- Your iPhone model and iOS version
+- Your device model and iOS/iPadOS version
 - The steps that led to the problem
 - A screenshot, if possible
 

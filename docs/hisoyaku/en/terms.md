@@ -1,6 +1,6 @@
 # Terms of Use
 
-Last updated: November 6, 2026
+Last updated: November 24, 2026
 
 These Terms of Use ("Terms") govern your use of the iOS app "HisoYaku" (the "App"). By downloading, installing, or using the App, you agree to these Terms.
 
@@ -42,7 +42,7 @@ These Terms of Use ("Terms") govern your use of the iOS app "HisoYaku" (the "App
 
 ## 6. Requirements
 
-1. The App requires an iPhone with iOS 27.0 or later.
+1. The App requires an iPhone with iOS 27.0 or later, or an iPad with iPadOS 27.0 or later.
 2. Because the translation model is included in the App, the App is large and requires free storage on your device.
 3. Text recognition in photos is limited to the languages supported by iOS text recognition.
 
